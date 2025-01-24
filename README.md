@@ -45,3 +45,5 @@ Untuk Lebih lengkapnya ikuti petunjuk official
 
 https://www.privasea.ai/privanetix-node
 
+For more updates and discussions, join the 
+[Telegram Airdrop Node](https://t.me/airdrop_node).
