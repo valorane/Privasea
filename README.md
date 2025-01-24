@@ -33,12 +33,15 @@ Setelah proses selesai, simpan alamat node yang ditampilkan.
 -- Klik tombol Set up my node untuk menyelesaikan konfigurasi.
 
 -- Kembali ke Vps, Jalankan node dengan memilih y saat diminta oleh script instalasi.
+
 3. Setelah node berhasil disiapkan, kembali ke Dashboard Privanetix.
-Klaim faucet melalui opsi yang tersedia di dashboard.
-Setelah menerima token faucet, lakukan staking dengan langkah berikut:
-Masukkan jumlah token yang ingin Anda staking.
-Konfirmasi transaksi melalui dompet yang terhubung.
+
+-- Klaim faucet melalui opsi yang tersedia di dashboard.
+
+-- Masukkan jumlah token yang ingin Anda staking.
+
 
 Untuk Lebih lengkapnya ikuti petunjum official
+
 https://www.privasea.ai/privanetix-node
 
