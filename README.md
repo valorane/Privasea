@@ -5,7 +5,7 @@ Panduan lengkap untuk menginstal dan menjalankan Privasea Privanetix Node dengan
 ## Persyaratan  
 
 - **RAM**: 8 GB  
-- **CPU**: 4 Cores  
+- **CPU**: 6 Cores  
 
 ## Instalasi Satu Klik  
 
