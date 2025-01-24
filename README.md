@@ -41,7 +41,7 @@ Setelah proses selesai, simpan alamat node yang ditampilkan.
 -- Masukkan jumlah token yang ingin Anda staking.
 
 
-Untuk Lebih lengkapnya ikuti petunjum official
+Untuk Lebih lengkapnya ikuti petunjuk official
 
 https://www.privasea.ai/privanetix-node
 
